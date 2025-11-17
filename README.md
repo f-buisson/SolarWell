@@ -25,6 +25,17 @@ The goal is not industrial performance, but:
 
 ---
 
+## 🔗 Powered by Solar Flare
+
+SolarWell is designed to work **in combination with**:
+
+- **[Solar Flare](https://github.com/f-buisson/Solar-Flare)** – a foldable solar concentrator (Fresnel lens + mirrors), used here as a **heat source** for water heating and evaporation.
+
+Without Solar Flare (or equivalent), SolarWell remains a **simple passive solar still**.  
+Together, they form a small modular chain: **sun → concentrated heat → accelerated evaporation → drinkable water**.
+
+---
+
 ## ⚙️ Operation (basic module)
 
 - A **dark basin** holds raw water (sea / brackish / slightly polluted).
@@ -128,6 +139,17 @@ L’objectif n’est pas la performance industrielle, mais :
 - une petite **autonomie en eau** à échelle humaine,
 - un support **pédagogique** sur la chaleur et le changement d’état,
 - une bonne intégration avec d’autres briques low-tech.
+
+---
+
+## 🔗 Alimenté par Solar Flare
+
+SolarWell est pensé pour fonctionner **en combinaison avec** :
+
+- **[Solar Flare](https://github.com/f-buisson/Solar-Flare)** – un concentrateur solaire pliable (lentille de Fresnel + miroirs), utilisé ici comme **source de chaleur** pour le chauffage de l’eau et l’évaporation.
+
+Sans Solar Flare (ou équivalent), SolarWell reste un **simple distillateur solaire passif**.  
+Ensemble, ils forment une petite chaîne modulaire **soleil → concentration de chaleur → évaporation accélérée → eau potable**.
 
 ---
 
