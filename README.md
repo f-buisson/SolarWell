@@ -45,6 +45,20 @@ Together, they form a small modular chain: **sun → concentrated heat → accel
 
 ---
 
+## ☀️ Sun tracking (orientation)
+
+SolarWell’s efficiency depends a lot on how well **Solar Flare** is oriented toward the sun.  
+The better the concentrator tracks the sun, the higher the evaporation rate and the more drinkable water you can get per day.
+
+For now, SolarWell assumes either:
+- **simple manual adjustment** of Solar Flare a few times per day, or  
+- a future **passive / hybrid tracking system** reused from Solar Flare.
+
+For more details and concept ideas about sun tracking:
+👉 [Sun_Tracking_concepts (Solar Flare)](https://github.com/f-buisson/Solar-Flare/blob/main/docs/Sun_Tracking_concepts.md)
+
+---
+
 ## 🧪 Example use cases
 
 Some possible scenarios for SolarWell:
@@ -159,6 +173,20 @@ Ensemble, ils forment une petite chaîne modulaire **soleil → concentration de
 - Un **couvercle transparent** (verre / plastique) laisse passer le soleil via Solar Flare et piège la chaleur.
 - L’eau se réchauffe, s’évapore, puis **condense** sur la face interne du couvercle.
 - Les gouttes condensées **ruissellent** vers un canal de collecte → **eau propre en sortie**.
+
+---
+
+## ☀️ Suivi du soleil (orientation)
+
+Le rendement de SolarWell dépend fortement de la qualité de l’**orientation de Solar Flare** vers le soleil.  
+Plus le concentrateur suit bien le soleil, plus le débit d’évaporation est élevé et plus on peut obtenir d’eau potable chaque jour.
+
+Pour l’instant, SolarWell suppose soit :
+- un **ajustement manuel simple** de Solar Flare quelques fois par jour,  
+- soit un futur système de suivi **passif / hybride** réutilisé depuis Solar Flare.
+
+Pour plus de détails et d’idées de concepts de suivi solaire :
+👉 [Sun_Tracking_concepts (Solar Flare)](https://github.com/f-buisson/Solar-Flare/blob/main/docs/Sun_Tracking_concepts.md)
 
 ---
 
