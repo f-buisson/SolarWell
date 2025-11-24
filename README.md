@@ -23,6 +23,8 @@ The goal is not industrial performance, but:
 - a **pedagogical tool** about heat and phase change,
 - good integration with other low-tech building blocks.
 
+![Simplified schema of SolarWell](docs/schema_solarwell_simplify.png)
+
 ---
 
 ## 🔗 Powered by Solar Flare
