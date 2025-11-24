@@ -156,6 +156,8 @@ L’objectif n’est pas la performance industrielle, mais :
 - un support **pédagogique** sur la chaleur et le changement d’état,
 - une bonne intégration avec d’autres briques low-tech.
 
+![Simplified schema of SolarWell](docs/schema_solarwell_simplify.png)
+
 ---
 
 ## 🔗 Alimenté par Solar Flare
