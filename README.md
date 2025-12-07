@@ -1,5 +1,8 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
+**Language:** [English](#english) | [Français](#francais)
+
+<a id="english"></a>
 # 💧 SolarWell — Low-tech Solar Distillation & Purification
 
 SolarWell is a **low-tech solar distillation** concept designed to turn **seawater** or polluted water into drinkable water using **only the sun**.
@@ -133,6 +136,7 @@ Thank you for your support ✦
 
 ---
 
+<a id="francais"></a>
 # 💧 SolarWell — Distillation solaire low-tech & épuration
 
 SolarWell est un concept de **distillation solaire low-tech** destiné à transformer de l’**eau de mer** ou de l’eau polluée en eau potable, en utilisant **uniquement le soleil**.
